@@ -2,9 +2,9 @@
 ADM Homework 4
 Contributors:
 
-          - Antonella Cruoglio
-          - Onur Ergun
-          - Salim Sikder
+          - Antonella Cruoglio, cruoglio.2025992@studenti.uniroma1.it
+          - Onur Ergun, ergun.1993003@studenti.uniroma1.it
+          - Salim Sikder, sikder.1754346@studenti.uniroma1.it 
 
 main.ipynb : Ex 1-2-3 answers and results
 
