@@ -4,7 +4,7 @@ Contributors:
 
           - Antonella Cruoglio
           - Onur Ergun
-          - Siyam Sikder
+          - Salim Sikder
 
 main.ipynb : Ex 1-2-3 answers and results
 
