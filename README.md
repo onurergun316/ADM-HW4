@@ -2,9 +2,9 @@
 ADM Homework 4
 
 Contributors : 
-          - Antonella Cruoglio
-          - Onur Ergun
-          - Siyam Sikder
+          1. Antonella Cruoglio
+          2. Onur Ergun
+          3. Siyam Sikder
 
 main.ipynb : Ex 1-2-3 answers and results
 The datasets that has been used on this projects are:
